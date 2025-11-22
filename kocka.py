@@ -18,7 +18,7 @@ dobott_ertekek = []
 paros = 0
 
 while dobasszam < 20:
-    gennum = random.randrange(1, 6)
+    gennum = random.randrange(1, 7)
     dobott_ertekek.append(gennum)
     dobasszam += 1
 
